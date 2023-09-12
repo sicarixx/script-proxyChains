@@ -1,5 +1,5 @@
 ### Python Script for Proxychains and Tor
-#### Python script for Proxychains and Tor by [ Sicarixx ](https://github.com/sicarixx) and [_Wre_](https://github.com/BrendaVlaam)<br>
+#### Python script for Proxychains and Tor by [_Sicarixx_](https://github.com/sicarixx) and [_Wre_](https://github.com/BrendaVlaam)<br>
 #### Intructions
 
 1. Give execute permissions to the file `chmod +x proxychains.py`
